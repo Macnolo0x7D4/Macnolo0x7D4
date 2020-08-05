@@ -1,8 +1,9 @@
 ### Hi there 👋! I'm Manuel Díaz - aka [Macnolo][website]
 
 ## I'm a Student and Developer 
+- I'm the owner of [Macnolo Tech][website]
+- I'm part of [WinT 3794 FRC Team](https://www.facebook.com/WinT3794FRC)
 - I'm currently working on [FTC PathFollower API](https://github.com/WinT-3794/PathFollower)!
-- I'm currently working in a [WinT 3794 FRC Team](https://www.facebook.com/WinT3794FRC)
 
 ### Follow me!
 
@@ -21,7 +22,7 @@
 <img align="left" alt="Ruby" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" />
 <img align="left" alt="Swift" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/1138px-Swift_logo.svg.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1200px-Kotlin-logo.svg.png" />
-<img align="left" alt="Android Studio" width="26px" src="https://w7.pngwing.com/pngs/73/631/png-transparent-android-studio-integrated-development-environment-software-development-emulator-android-logo-emulator-mobile-app-development.png" />
+<img align="left" alt="Android Studio" width="26px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
 <img align="left" alt="Xcode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Xcode_Icon.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -34,15 +35,17 @@
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Laravel" width="26px" src="https://desarrolloweb.com/storage/tag_images/actual/7sY8a8whbcQcFvkV3nQGiCjXYITUgdLALYqlFzmM.png" />
+<img align="left" alt="Laravel" width="26px" src="https://seeklogo.com/images/L/laravel-framework-logo-C10176EC8C-seeklogo.com.png" />
 <img align="left" alt="Django" width="26px" src="https://img1.freepng.es/20180711/fol/kisspng-django-web-development-web-framework-python-softwa-django-5b45d913c5b252.5696191815313042118098.jpg" />
 <img align="left" alt="Rails" width="26px" src="https://www.kindpng.com/picc/m/12-120961_logo-ruby-on-rails-hd-png-download.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<br/>
+<br/>
 
 [website]: https://macnolo.tech
 [twitter]: https://twitter.com/macnolo2004
 [instagram]: https://www.instagram.com/macnolotech/
 
 [![Macnolo's github stats](https://github-readme-stats.vercel.app/api?username=mcn2004&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcn2004)](https://github.com/anuraghazra/github-readme-stats)
