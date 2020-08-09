@@ -1,9 +1,10 @@
 ### Hi there 👋! I'm Manuel Díaz - aka [Macnolo][website]
 
 ## I'm a Student and Developer 
-- I'm the owner of [Macnolo Tech][website]
-- I'm part of [WinT 3794 FRC Team](https://www.facebook.com/WinT3794FRC)
-- I'm currently working on [FTC PathFollower API](https://github.com/WinT-3794/PathFollower)!
+- 🏢 I'm the owner of [Macnolo Tech][website]
+- 🤖 I'm part of [WinT 3794 FRC Team](https://www.facebook.com/WinT3794FRC)
+- 🖥️ I'm currently working on [FTC PathFollower API](https://github.com/WinT-3794/PathFollower)!
+- 🌱 I'm currently learning Angular and GraphQL
 
 ### Follow me!
 
