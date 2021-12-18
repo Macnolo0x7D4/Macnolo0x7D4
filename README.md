@@ -1,11 +1,11 @@
 ### Hi there 👋! I'm Manuel Díaz - aka [Macnolo][website]
 
 ## I'm a Student and Developer 
-- 🏢 I'm the owner of [Macnolo Tech][website]
-- 🤖 I'm the main developer in [WinT 3794 FRC Team](https://www.facebook.com/WinT3794FRC)
+- 🏢 I'm the owner of [Macnolo Tech][website].
+- 🤖 I'm the main developer in [WinT 3794 FRC Team](https://www.facebook.com/WinT3794FRC).
 - 🖥️ I'm currently working on [FTC PathFollower API](https://github.com/WinT-3794/PathFollower)!
-- 🌱 I'm currently learning Cybersec (Android) | Exploit Research
-- 🐧 I'm a Linux user! Specifically, ArtixLinux user, following the ArchWay, but using OpenRC.
+- 🌱 I'm currently learning Cybersec (Android) | Exploit Research.
+- 🐧 I'm a [Linux user!](https://es.wikipedia.org/wiki/GNU/Linux) Specifically, [ArtixLinux](https://artixlinux.org/) user, following the [ArchWay](https://archlinux.org/), but using [OpenRC](https://wiki.gentoo.org/wiki/OpenRC).
 
 ### Follow me!
 
