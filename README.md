@@ -5,7 +5,7 @@
 - 🤖 I'm the main developer in [WinT 3794 FRC Team](https://www.facebook.com/WinT3794FRC).
 - 🖥️ I'm currently working on [FTC PathFollower API](https://github.com/WinT-3794/PathFollower)!
 - 🌱 I'm currently learning Cybersec (Android) | Exploit Research.
-- 🐧 I'm a [Linux user!](https://es.wikipedia.org/wiki/GNU/Linux) Specifically, [ArtixLinux](https://artixlinux.org/) user, following the [ArchWay](https://archlinux.org/), but using [OpenRC](https://wiki.gentoo.org/wiki/OpenRC).
+- 🐧 I'm a [Linux](https://es.wikipedia.org/wiki/GNU/Linux) user! Specifically, [Arch Linux](https://archlinux.org/).
 
 ### Follow me!
 
