@@ -1,35 +1,21 @@
-### Hi there 👋! I'm Manuel Díaz - aka [Macnolo][website]
+<h1 align="center">Hi 👋, I'm Manolo</h1>
+<h3 align="center">A full stack developer from Mexico</h3>
 
-## I'm a Student and Developer 
-- 🏢 I'm the owner of [Macnolo Tech][website].
-- 🤖 I teach FIRST® Robotics Competition Programming with [LearnRobotics](https://learnrobotics.com.mx).
-- 🖥️ I'm currently working on [Hola Cash](https://holacash.mx/)!
-- 🌱 I want to learn ARM InfoSec.
+- 🔭 I’m currently working on **Vordutec**
 
-### Follow me!
+- 🌱 I’m currently learning **Clojure and Software Architecture**
 
-[<img align="left" alt="macnolo.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="macnolotech | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 👯 I’m teaching programming on **LearnRobotics**
 
-<br />
+- 💬 Ask me about **Java, TypeScript, Elixir or Go**
 
-### Languages and Tools:
+- 📫 How to reach me **rocky@macnolo.net**
 
-<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" />
-<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/>
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
-<img align="left" alt="Golang" width="26px" src="https://miro.medium.com/max/3150/1*yh90bW8jL4f8pOTZTvbzqw.png" />
-<img align="left" alt="Ruby" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" />
-<img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" />
-<img align="left" alt="Laravel" width="26px" src="https://seeklogo.com/images/L/laravel-framework-logo-C10176EC8C-seeklogo.com.png" />
-<img align="left" alt="Rails" width="26px" src="https://www.armia.com/project/img/rubyrails.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Linux" width="26px" src="https://www.redhat.com/cms/managed-files/tux-327x360.png"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/macnolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="macnolo" height="30" width="40" /></a>
+<a href="https://macnolo.net" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="macnolo" height="30" width="40" /></a>
+</p>
 
-<br/>
-<br/>
-
-[website]: https://macnolo.net
-[twitter]: https://twitter.com/macnolo2004
-[instagram]: https://www.instagram.com/macnolo0x7d4/
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
